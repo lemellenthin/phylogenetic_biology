@@ -1,4 +1,4 @@
-# Bayesian phylognetics
+# Bayesian phylogenetics
 
 Let's take stock of what we have covered so far. We introduced models, and how to simulate data with them. We then explored how to use models to calculate the likelihood -- the probability of the observed data given the topology, edge lengths, model parameters, and model. We used likelihood as an optimality criterion in heuristic searches to find the Maximum Likelihood (ML) phylogeny. We introduced the methods to calculate the frequency of edges on a focal topology, like the ML topology, in a sample of phylogenies. We showed how to generate a sample of phylogenies by running ML searches on bootstrapped matrices, and used this to calculate bootstrap support for each edge in the ML phylogeny.
 
